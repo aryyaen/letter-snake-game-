@@ -1,4 +1,4 @@
-name: Publish Letter Snake 3D to GitHub Pages
+name: Publish Letter Snake 3D to GitHub Pages (static build)
 
 on:
   push:
